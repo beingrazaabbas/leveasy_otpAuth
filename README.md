@@ -14,6 +14,13 @@ Features
 -   Seamless integration with Firebase Authentication.
 -   User-friendly interface.
 
+
+![Screenshot 2023-06-16 160849](https://github.com/beingrazaabbas/leveasy_otpAuth/assets/86911625/618d1b92-5a5e-40f7-a4ec-6a63da3b613d)
+![Screenshot 2023-06-16 160859](https://github.com/beingrazaabbas/leveasy_otpAuth/assets/86911625/c8ba85b2-5270-48c3-91a0-7ba014411d7d)
+![Screenshot 2023-06-16 160909](https://github.com/beingrazaabbas/leveasy_otpAuth/assets/86911625/4fc2d909-c656-429e-915b-7156a1f64872)
+![Screenshot 2023-06-16 161146](https://github.com/beingrazaabbas/leveasy_otpAuth/assets/86911625/a3f0ef81-efc0-4ce9-8193-29be7885b666)
+
+
 Installation
 ------------
 
@@ -58,6 +65,7 @@ dartCopy code
     projectId: "YOUR_PROJECT_ID",
   ),
 );`
+
 
 Usage
 -----
